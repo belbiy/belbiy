@@ -1,6 +1,6 @@
 # Eugene Bannykh
 
-UX designer and frontend developer ad Magento/Adobe.
+UX designer and frontend developer at Adobe Commerce.
 
 
 <!--
